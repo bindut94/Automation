@@ -21,7 +21,7 @@ public class Maths {
 		LearnCon x=new LearnCon(2, 3);
 		System.out.println(x.a);
 		System.out.println(x.b);
-
+		System.out.println(x.e);
 		
 		
 

@@ -4,15 +4,15 @@ public class LearnCon {
 	
 	int a;
 	int b;   //instance var
+	String e;
 	
 	public LearnCon(int c, int d){
 		
 		this.a = c;
 		this.b = d;
-	
-		
-		System.out.println("Addition is:");
-		
+		this.e = "Adding";
+	    
+		System.out.println("Parameterised constructor");
 		
 		
 	}
